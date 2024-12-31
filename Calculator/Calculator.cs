@@ -4,6 +4,11 @@ namspace ProGitForProgrammers.Calculator{
         {
             return x + y;
         }
+        public int Subtract (int left, int right)
+        {
+            return left - right;
+        }
+        
         
     }
 }
