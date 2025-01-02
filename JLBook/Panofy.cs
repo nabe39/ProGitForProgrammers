@@ -10,7 +10,11 @@ public class Panofy
     {
         return Math.Sqrt(x);
     }
-    public double SquareRoot(double x)
+    public double Multiple(double x)
+    {
+        return Math.Sqrt(x);
+    }
+    public double Add(double x)
     {
         return Math.Sqrt(x);
     }
