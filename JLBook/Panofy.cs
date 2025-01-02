@@ -1,6 +1,18 @@
 public class Panofy
 {
    class Program{
+    public double Divide(double x)
+    {
+        return Math/x;
+    }
+    public double SquareRoot(double x)
+    {
+        return Math.Sqrt(x);
+    }
+    public double Multiple(double x)
+    {
+        return Math.Sqrt(x);
+    }
     static void Main(string[] args)
     {
         var converter = new FahrenheitToCelsius();
